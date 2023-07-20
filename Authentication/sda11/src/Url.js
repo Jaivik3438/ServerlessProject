@@ -1,0 +1,1 @@
+export const baseURL = "https://us-central1-jaivik-sda11project.cloudfunctions.net/app/";
